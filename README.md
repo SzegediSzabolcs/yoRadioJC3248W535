@@ -8,7 +8,7 @@ Ez a projekt egy erősen módosított **yoRadio** (eredeti: e2002/yoradio) fork.
 Célja egy egyszerűen használható, szép kinézetű, magyar nyelvű internet rádió készítése a népszerű Guition JC3248W535 ESP32-S3 kijelzős modulra.
 
 ### Főbb módosítások és javítások:
-- Saját egyedi bootlogo
+- Saját **egyedi bootlogo**
 - Alap: **V-Tom** verzió
 - **romekb** által hozzáadott teljes támogatás a **JC3248W535** modulhoz (AXS15231B vezérlő + kapacitív érintőképernyő)
 - Teljes magyar nyelvű felület (korábbi magyar verzióban lévő hibákat kijavítottam)
@@ -27,7 +27,7 @@ Célja egy egyszerűen használható, szép kinézetű, magyar nyelvű internet 
 ## ⚙️ Konfiguráció
 
 A projekt legfontosabb beállításai a **`myoptions.h`** fájlban találhatók (a fájlok között megtalálod).  
-Itt minden lényeges dolgot ki- és bekapcsolhatsz, például:
+Itt minden lényeges dolgot konfigurálhatsz, például:
 - Névnapok megjelenítése
 - Használt DAC típusa
 - Egyéb funkciók (pl. RTC, rotary encoder támogatás stb.)
