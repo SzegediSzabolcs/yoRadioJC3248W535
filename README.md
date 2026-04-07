@@ -3,7 +3,6 @@
 ESP32-S3 alapú internet rádió **magyar nyelvű felülettel**, csak a **fő névnapok** kijelzésével és teljes támogatással a Guition JC3248W535 modulhoz (AXS15231B vezérlő + kapacitív érintőképernyő).
 
 ![Screen](Pictures/screen.jpg)
-![front](Pictures/front.jpg)
 ![back](Pictures/back.jpg)
 
 
@@ -19,6 +18,7 @@ Célja egy egyszerűen használható, szép kinézetű, magyar nyelvű internet 
 - **Csak a fő magyar névnapok** jelennek meg (a másodlagosak nincsenek benne a tisztább megjelenés érdekében)
 - Kisebb hibajavítások és optimalizálások a stabil működéshez
 - **Egyedi bootlogo**
+
 ![Egyedi Bootlogo](Pictures/Bootlogo.png)
 
 
