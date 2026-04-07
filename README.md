@@ -42,6 +42,9 @@ Itt minden lényeges dolgot konfigurálhatsz, például:
 
 Mielőtt feltöltenéd a kódot a Guition JC3248W535-re, mindenképpen nézd át és állítsd be igényeid szerint ezt a fájlt!
 
+## 🛠️ 3D modell
+A saját tervezésű 3D modellem elérhető az alábbi linken: https://makerworld.com/hu/models/2630118-yoradio-guition-jc3248w535#profileId-2904124
+
 ## 🛠️ Használt alkatrészek
 Az összes szükséges alkatrész linkje megtalálható a repo **Aliexpress** mappájában.
 
