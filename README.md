@@ -15,7 +15,7 @@ Célja egy egyszerűen használható, szép kinézetű, magyar nyelvű internet 
 - **Csak a fő magyar névnapok** jelennek meg (a másodlagosak nincsenek benne a tisztább megjelenés érdekében)
 - Kisebb hibajavítások és optimalizálások a stabil működéshez
 
-![Egyedi Bootlogo](images/Bootlogo.png)
+![Egyedi Bootlogo](Pictures/Bootlogo.png)
 
 ## ✨ Funkciók
 - Internet rádió (több száz magyar és külföldi állomás)
