@@ -1,4 +1,4 @@
-# yoRadio – Magyar verzió JC3248W535 (AXS15231B) kijelzővel
+# yoRadio – Magyar verzió Guition JC3248W535 (AXS15231B) kijelzővel
 
 ESP32-S3 alapú internet rádió **magyar nyelvű felülettel**, csak a **fő névnapok** kijelzésével és teljes támogatással a Guition JC3248W535 modulhoz (AXS15231B vezérlő + kapacitív érintőképernyő).
 
