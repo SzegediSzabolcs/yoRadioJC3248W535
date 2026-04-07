@@ -15,6 +15,8 @@ Célja egy egyszerűen használható, szép kinézetű, magyar nyelvű internet 
 - **Csak a fő magyar névnapok** jelennek meg (a másodlagosak nincsenek benne a tisztább megjelenés érdekében)
 - Kisebb hibajavítások és optimalizálások a stabil működéshez
 
+![Egyedi Bootlogo](images/Bootlogo.png)
+
 ## ✨ Funkciók
 - Internet rádió (több száz magyar és külföldi állomás)
 - Időjárás-jelentés és óra
@@ -31,7 +33,7 @@ Itt minden lényeges dolgot konfigurálhatsz, például:
 - Nyelv beállítása
 - Névnapok megjelenítése
 - Használt DAC típusa
-- Egyéb funkciók (pl. RTC, SD kártya, Rotary Encoder támogatás stb.)
+- Egyéb funkciók (pl. RTC, SD kártya, IR, Rotary Encoder támogatás stb.)
 
 Mielőtt feltöltenéd a kódot a Guition JC3248W535-re, mindenképpen nézd át és állítsd be igényeid szerint ezt a fájlt!
 
