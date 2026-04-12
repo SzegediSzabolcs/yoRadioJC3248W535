@@ -21,6 +21,8 @@ Célja egy egyszerűen használható, szép kinézetű, magyar nyelvű internet 
 
 ![Egyedi Bootlogo](Pictures/Bootlogo.png)
 
+Youtube link: https://www.youtube.com/watch?v=H177wK0D7a4
+
 
 ## ✨ Funkciók
 - Internet rádió (több száz magyar és külföldi állomás)
