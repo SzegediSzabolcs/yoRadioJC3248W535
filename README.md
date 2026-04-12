@@ -63,7 +63,7 @@ Főbb komponensek:
 ## ❤️ Köszönet
 - **e2002** – az eredeti yoRadio projektért [](https://github.com/e2002/yoradio)
 - **V-Tom** – az alap verzióért
-- **romekb** – a JC3248W535 + AXS15231B támogatás hozzáadásáért
+- **romekb** – a JC3248W535 (AXS15231B) támogatás hozzáadásáért
 - Mindenkinek, aki a magyar fordításhoz hozzájárult
 
 ---
