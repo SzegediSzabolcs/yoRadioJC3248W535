@@ -61,6 +61,7 @@ Főbb komponensek:
 3. Telepítsd a megfelelő fájlt **Boards Manager**-ben (lásd: https://github.com/SzegediSzabolcs/yoRadioJC3248W535HU/blob/main/ArduinoIDE%20settings/Boards%20Manager.jpg)
 4. Telepítsd a megfelelő könyvtárat a **Library Manager**-ben (lásd: https://github.com/SzegediSzabolcs/yoRadioJC3248W535HU/blob/main/ArduinoIDE%20settings/Library%20Manager.jpg)
 5. Állítsd be a **"Tools"** fül alatt a megfelelő beállításokat (lásd: https://github.com/SzegediSzabolcs/yoRadioJC3248W535HU/blob/main/ArduinoIDE%20settings/ArduinoIDE%20setting.jpg)
+6. Fordítsd le a kódot és töltsd fel.
 
 ## ❤️ Köszönet
 - **e2002** – az eredeti yoRadio projektért [](https://github.com/e2002/yoradio)
