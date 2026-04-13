@@ -59,7 +59,7 @@ Főbb komponensek:
 1. Töltsd le a legfrissebb release-t
 2. Használd az Arduino IDE-t
 3. Telepítsd a megfelelő fájlt **Boards Manager**-ben (lásd: https://github.com/SzegediSzabolcs/yoRadioJC3248W535HU/blob/main/ArduinoIDE%20settings/Boards%20Manager.jpg)
-4. Telepítsd a megfelelő könyvtárat a **Library Manager**-ben (lásd: https://github.com/SzegediSzabolcs/yoRadioJC3248W535HU/blob/main/ArduinoIDE%20settings/Library%20Manager.jpg)
+4. Telepítsd a megfelelő könyvtárakat a **Library Manager**-ben (lásd: https://github.com/SzegediSzabolcs/yoRadioJC3248W535HU/blob/main/ArduinoIDE%20settings/Library%20Manager.jpg)
 5. Állítsd be a **"Tools"** fül alatt a megfelelő beállításokat (lásd: https://github.com/SzegediSzabolcs/yoRadioJC3248W535HU/blob/main/ArduinoIDE%20settings/ArduinoIDE%20setting.jpg)
 6. Fordítsd le a kódot és töltsd fel.
 
