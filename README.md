@@ -65,7 +65,7 @@ Főbb komponensek:
 
 **FONTOS:** A program az Adafruit_GFX librarit használja, ahol egy 5x7 pixel méretű fontot skáláz fel a kért méret függvényében. Ez a font a **glcdfont.c** fájlban van megrajzolva.    
 A fájlok helye:   
-**Arduino IDE esetén a számítógép Dokumentumok/Arduino/libraries/Adafruit_GFX_Library/.glcdfont.c**    
+Arduino IDE esetén a számítógép **Dokumentumok/Arduino/libraries/Adafruit_GFX_Library/.glcdfont.c**    
 
 Ha nálad nem jelennek meg helyesen a karakterek, illetve a WIFI és a hangszóró kijelzés, akkor az eredeti fájlt **le kell cserélni** erre a fájlra: https://github.com/SzegediSzabolcs/yoRadioJC3248W535HU/tree/main/ArduinoIDE%20settings/HUglcdfont
 
