@@ -67,7 +67,7 @@ Főbb komponensek:
 A fájlok helye:   
 **Arduino IDE esetén a számítógép Dokumentumok/Arduino/libraries/Adafruit_GFX_Library/.glcdfont.c**    
 
-Ha nálad nem jelennek meg helyesen a karakterek, illetve a WIFI és a hangszóró kijelzés, akkor ezt a fájlt **le kell cserélni** az eredetit erre a fájlra: https://github.com/SzegediSzabolcs/yoRadioJC3248W535HU/tree/main/ArduinoIDE%20settings/HUglcdfont
+Ha nálad nem jelennek meg helyesen a karakterek, illetve a WIFI és a hangszóró kijelzés, akkor az eredeti fájlt **le kell cserélni** erre a fájlra: https://github.com/SzegediSzabolcs/yoRadioJC3248W535HU/tree/main/ArduinoIDE%20settings/HUglcdfont
 
 ## ❤️ Köszönet
 - **e2002** – az eredeti yoRadio projektért [](https://github.com/e2002/yoradio)
