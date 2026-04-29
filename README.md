@@ -63,11 +63,11 @@ Főbb komponensek:
 5. Állítsd be a **"Tools"** fül alatt a megfelelő beállításokat (lásd: https://github.com/SzegediSzabolcs/yoRadioJC3248W535HU/blob/main/ArduinoIDE%20settings/ArduinoIDE%20setting.jpg)
 6. Fordítsd le a kódot és töltsd fel.
 
-**FONTOS:** A program az Adafruit_GFX librarit használja, ahol egy 5x7 pixel méretű fontot skáláz fel a kért méret függvényében. Ez a font a glcdfont.c fájlban van megrajzolva.    
+**FONTOS:** A program az Adafruit_GFX librarit használja, ahol egy 5x7 pixel méretű fontot skáláz fel a kért méret függvényében. Ez a font a **glcdfont.c** fájlban van megrajzolva.    
 A fájlok helye:   
-Arduino IDE esetén a számítógép Dokumentumok/Arduino/libraries/Adafruit_GFX_Library/.glcdfont.c    
+**Arduino IDE esetén a számítógép Dokumentumok/Arduino/libraries/Adafruit_GFX_Library/.glcdfont.c**    
 
-Ha nálad nem jelennek meg helyesen a karakterek, illetve a WIFI és a hangszóró kijelzés, akkor ezt a fájlt le kell cserélni erre a fájlra: https://github.com/SzegediSzabolcs/yoRadioJC3248W535HU/tree/main/ArduinoIDE%20settings/HUglcdfont
+Ha nálad nem jelennek meg helyesen a karakterek, illetve a WIFI és a hangszóró kijelzés, akkor ezt a fájlt **le kell cserélni** az eredetit erre a fájlra: https://github.com/SzegediSzabolcs/yoRadioJC3248W535HU/tree/main/ArduinoIDE%20settings/HUglcdfont
 
 ## ❤️ Köszönet
 - **e2002** – az eredeti yoRadio projektért [](https://github.com/e2002/yoradio)
